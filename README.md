@@ -63,4 +63,7 @@ This app is developed by follwing waterfall model of SDLC
 ### Notifications 
 ![](https://github.com/Mahfuj-HSTU/alap/blob/hridoy/Screenshots/notification.png)
 
+### Future Scope
+- File uploading
+- Calling services
   
